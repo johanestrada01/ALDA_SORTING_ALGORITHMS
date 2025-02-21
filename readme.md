@@ -81,17 +81,6 @@ project/
 └── requirements.txt
 ```
 
-## How to Run
-### Clone the repository:
-```bash
-git clone [<repository_url>](https://github.com/johanestrada01/ALDA_SORTING_ALGORITHMS.git)
-```
-
-### Execute the Analysis:
-```bash
-python -m analysis.analysis
-```
-
 ## Conclusion
 - **Merge Sort** and **Radix Sort** generally perform better for large datasets due to their lower time complexities.
 - **Counting Sort** is highly efficient when the range of values is limited.
