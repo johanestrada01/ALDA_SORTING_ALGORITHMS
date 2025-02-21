@@ -75,10 +75,7 @@ project/
 │   ├── counting_sort.py
 │   ├── radix_sort.py
 │   └── bubble_sort.py
-├── graphs/
-│   └── execution_time_graph.png
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## Conclusion
