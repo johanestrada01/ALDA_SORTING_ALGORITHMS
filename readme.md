@@ -84,15 +84,9 @@ project/
 ## How to Run
 ### Clone the repository:
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone [<repository_url>](https://github.com/johanestrada01/ALDA_SORTING_ALGORITHMS.git)
 ```
 
-### Install Dependencies:
-Using pip:
-```bash
-pip install -r requirements.txt
-```
 ### Execute the Analysis:
 ```bash
 python -m analysis.analysis
@@ -105,4 +99,3 @@ python -m analysis.analysis
 
 ## Author
 - **Johan Alejandro Estrada Pastran**
-- **Contact Information**
